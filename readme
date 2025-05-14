@@ -1,5 +1,0 @@
-### J122401
-## For install depedencies
-pip install -r requirements.txt
-# Write your terminal below after you download.
-playwright install
