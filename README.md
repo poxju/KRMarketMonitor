@@ -21,7 +21,7 @@ This project monitors the prices of Korean stocks, calculates group averages, ch
 
 1. **Clone the repository**  
    ```
-   git clone <repo-url>
+   git clone https://github.com/poxju/Korean-Stock-Market-Monitor.git
    cd Korean-Stock-Market-Monitor
    ```
 
