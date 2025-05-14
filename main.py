@@ -16,7 +16,7 @@ async def monitor(interval, df, thresholds, sender_email, receiver_email, passwo
         await asyncio.sleep(interval)
 
 if __name__ == "__main__":
-    company_data = load_company_data('source/company_codes.xlsx')
+    company_data = load_company_data('company_codes.xlsx')
 
     # Email configuration
     sender_email = "your_email@gmail.com"
